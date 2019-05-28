@@ -11,7 +11,7 @@ h1 {
   transform: translate(-50%, -50%);
   font-family: monospace;
   font-size: 3vw;
-  letter-spacing: 10px;
+  letter-spacing: 8px;
   overflow: hidden;
 }
 
